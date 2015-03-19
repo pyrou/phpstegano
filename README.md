@@ -6,4 +6,4 @@ The library doesn't receive any update since its first release in 2007. Yes, bef
 
 This repository was automatically exported from http://code.google.com/p/phpstegano and is brought to you for archive purposes only.
 
-### A complete rewrite of this library is available throught [the project Morpheus](https://github.com/pyrou/morpheus)
+#### A complete rewrite of this library is available throught [the project Morpheus](https://github.com/pyrou/morpheus)
